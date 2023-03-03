@@ -4,10 +4,6 @@ import main.java.designpatterns.structural.bridge.Muzik;
 import main.java.designpatterns.structural.bridge.muzikcalar.MuzikCalar;
 import main.java.designpatterns.structural.bridge.sescihazi.SesCihazi;
 
-/**
- * @author Bahadır Memiş
- * @since 1.0.0
- */
 public abstract class MuzikCalabilenBilgisayar {
 
     protected SesCihazi sesCihazi;

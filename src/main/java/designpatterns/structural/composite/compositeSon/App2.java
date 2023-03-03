@@ -2,10 +2,7 @@ package main.java.designpatterns.structural.composite.compositeSon;
 
 import java.math.BigDecimal;
 
-/**
- * @author Bahadır Memiş
- * @since 1.0.0
- */
+
 public class App2 {
 
     public static void main(String[] args) {

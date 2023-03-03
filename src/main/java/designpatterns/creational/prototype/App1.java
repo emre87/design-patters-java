@@ -2,10 +2,7 @@ package main.java.designpatterns.creational.prototype;
 
 import java.util.Date;
 
-/**
- * @author Bahadır Memiş
- * @since 1.0.0
- */
+
 public class App1 {
 
     public static void main(String[] args) {

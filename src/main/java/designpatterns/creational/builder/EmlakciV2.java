@@ -1,9 +1,6 @@
 package main.java.designpatterns.creational.builder;
 
-/**
- * @author Bahadır Memiş
- * @since 1.0.0
- */
+
 public class EmlakciV2 {
 
     public static void main(String[] args) {

@@ -1,9 +1,6 @@
 package main.java.designpatterns.structural.bridge.sescihazi;
 
-/**
- * @author Bahadır Memiş
- * @since 1.0.0
- */
+
 public class Kulaklik implements SesCihazi {
 
     @Override

@@ -4,10 +4,7 @@ import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author Bahadır Memiş
- * @since 1.0.0
- */
+
 public class Sepet {
 
     private String adi;

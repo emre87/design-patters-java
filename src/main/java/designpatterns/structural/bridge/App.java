@@ -6,10 +6,6 @@ import main.java.designpatterns.structural.bridge.muzikcalar.Fizy;
 import main.java.designpatterns.structural.bridge.muzikcalar.Spotify;
 import main.java.designpatterns.structural.bridge.sescihazi.Kulaklik;
 
-/**
- * @author Bahadır Memiş
- * @since 1.0.0
- */
 public class App {
 
     public static void main(String[] args) {

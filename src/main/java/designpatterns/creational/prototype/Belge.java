@@ -1,9 +1,6 @@
 package main.java.designpatterns.creational.prototype;
 
-/**
- * @author Bahadır Memiş
- * @since 1.0.0
- */
+
 public class Belge implements Cloneable{
 
     private Long id;

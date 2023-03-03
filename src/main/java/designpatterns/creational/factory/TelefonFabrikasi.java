@@ -1,9 +1,6 @@
 package main.java.designpatterns.creational.factory;
 
-/**
- * @author Bahadır Memiş
- * @since 1.0.0
- */
+
 public class TelefonFabrikasi {
 
     public static Telefon getTelefon(String model, String batarya, int en, int boy){

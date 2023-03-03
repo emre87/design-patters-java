@@ -1,9 +1,5 @@
 package main.java.designpatterns.structural.bridge;
 
-/**
- * @author Bahadır Memiş
- * @since 1.0.0
- */
 public class Muzik {
 
     private String adi;

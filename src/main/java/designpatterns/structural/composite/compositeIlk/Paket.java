@@ -3,10 +3,7 @@ package main.java.designpatterns.structural.composite.compositeIlk;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author Bahadır Memiş
- * @since 1.0.0
- */
+
 public class Paket {
 
     private String adi;

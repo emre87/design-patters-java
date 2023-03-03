@@ -1,9 +1,5 @@
 package main.java.designpatterns.structural.adapter;
 
-/**
- * @author Bahadır Memiş
- * @since 1.0.0
- */
 public class Test {
 
     public static void main(String[] args) {

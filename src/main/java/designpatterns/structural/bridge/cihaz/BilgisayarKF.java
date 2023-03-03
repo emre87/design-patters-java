@@ -4,10 +4,7 @@ import main.java.designpatterns.structural.bridge.Muzik;
 import main.java.designpatterns.structural.bridge.muzikcalar.Fizy;
 import main.java.designpatterns.structural.bridge.sescihazi.Kulaklik;
 
-/**
- * @author Bahadır Memiş
- * @since 1.0.0
- */
+
 public class BilgisayarKF extends MuzikCalabilenBilgisayar {
 
     public BilgisayarKF() {

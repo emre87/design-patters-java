@@ -4,10 +4,7 @@ import main.java.designpatterns.structural.bridge.Muzik;
 import main.java.designpatterns.structural.bridge.muzikcalar.MuzikCalar;
 import main.java.designpatterns.structural.bridge.sescihazi.SesCihazi;
 
-/**
- * @author Bahadır Memiş
- * @since 1.0.0
- */
+
 public class Telefon extends MuzikCalabilenBilgisayar {
 
     public Telefon(SesCihazi sesCihazi, MuzikCalar muzikCalar) {

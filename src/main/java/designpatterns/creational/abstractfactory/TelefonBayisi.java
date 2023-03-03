@@ -1,9 +1,6 @@
 package main.java.designpatterns.creational.abstractfactory;
 
-/**
- * @author Bahadır Memiş
- * @since 1.0.0
- */
+
 public class TelefonBayisi {
 
     public static void main(String[] args) {

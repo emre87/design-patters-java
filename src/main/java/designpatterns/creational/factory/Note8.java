@@ -1,9 +1,6 @@
 package main.java.designpatterns.creational.factory;
 
-/**
- * @author Bahadır Memiş
- * @since 1.0.0
- */
+
 public class Note8 implements Telefon {
 
     private String model;

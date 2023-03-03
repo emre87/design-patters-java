@@ -1,9 +1,5 @@
 package main.java.designpatterns.structural.bridge.bridgeIlk;
 
-/**
- * @author Bahadır Memiş
- * @since 1.0.0
- */
 public class Hoparlor {
 
     public void sesiCal(String ses){
